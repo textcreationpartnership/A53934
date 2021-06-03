@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pedlars case stated; or, some remarks upon the pedlars, and all their carrying of goods abroad to proffer to sale in all cities towns, and places throughout England and Wales, &amp;c. in order to the prevention thereof.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53934</idno><idno type="EEBO-CITATION">99833859</idno>
+  <idno type="VID">38337</idno>
+  <idno type="EEBO-PROQUEST">2240955860</idno>
+  
+            <idno type="STC">Wing P1051</idno>
+            <idno type="STC">ESTC R222716</idno>
+            <idno type="PROQUEST">99833859</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833859e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2213:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pedlars case stated; or, some remarks upon the pedlars, and all their carrying of goods abroad to proffer to sale in all cities towns, and places throughout England and Wales, &amp;c. in order to the prevention thereof.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>These papers are to be had at the Three Pidgeons in Cornhil, London, over against the Exchange,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Copy stained and creased.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Peddlers and peddling --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38337:1"/>
+            <head>The Pedlars CASE Stated; OR, <hi>Some</hi> Remarks <hi>upon the</hi> PEDLARS, <hi>and all their Carrying of Goods abroad to proffer to Sale in all Cities, Towns, and Places throughout</hi> England <hi>and</hi> Wales, <hi>&amp;c. in order to the prevention thereof.</hi>
+            </head>
+            <p>OUR Ancestors have formerly been so sensible of the great Mischiefs done by <hi>Pedlars</hi> and <hi>Petty-Chapmen,</hi> carrying about, and proffering any Goods, except Provisions, to Sale (otherwise than in open Fairs and Markets) that several very severe Statutes have been made against all such Wan<g ref="char:EOLhyphen"/>derers abroad.</p>
+            <p>Yet for all that, whether it be for want of the due Execution, or else through the defect of those Laws, or by rea<g ref="char:EOLhyphen"/>son of a late <hi>Dispensing Patent, obtained by them, and granted by King</hi> James <hi>the Second,</hi> viz. <hi>To Pay,</hi> &amp;c. So it is now, that our <hi>Pedlars</hi> and <hi>Petty-Chapmen</hi> are most of them become great and strong Horse-Men, and so Formidable and Insolent, that they have rendered all Laws unto themselves; indeed but as meer Cobwebs, and fit only to re<g ref="char:EOLhyphen"/>strain some few of their weaker Brethren, who are but yet able to go on Foot only.</p>
+            <p>And though of late Years divers Applications have been made to several Parliaments, to make the Laws for Redress of such Grievances more effectual. And we in <hi>London</hi> have now, in <hi>Common Council,</hi> also sufficiently represented the same. Yet, such a mighty Opposition thereunto hath always been raised by the <hi>Ʋnited Purse,</hi> and Interest of all the <hi>English</hi> and <hi>Scotch</hi> Offenders, and such Stratagems used, whereby to discourage, delay and baffle the ge<g ref="char:EOLhyphen"/>nerous Attemptors thereof, that nothing at all could hitherto be obtained, but only a bare Referrence to our For<g ref="char:EOLhyphen"/>mer Laws, which are Defective.</p>
+            <p>But in this more Happy and Auspicious Juncture, after so good a Foundation is laid for the Liberty, Ease, and Improvement of Their Majesties good Subjects, and all contrary Designs are vanish'd, we may reasonably hope that if due Methods be taken, and seasonable Applications made, This <hi>Honourable House of Commons</hi> will con<g ref="char:EOLhyphen"/>descend to pass such a Bill, as may in due time be prepared and brought in for the Redress of this great and grow<g ref="char:EOLhyphen"/>ing Grievance, as may effectually answer the humble and just Desires of so many of their Country-Men, and that for several good Reasons; some of which are as follow, <hi>viz.</hi> Because,</p>
+            <p n="1">I. In all times of publick Charge (as especially at present) a very considerable Burthen lies upon the Diligent and Industrious Shop-keepers, and Trading-Inhabitants of this Kingdom, whilst wandring and uncertain Per<g ref="char:EOLhyphen"/>sons, bear but little or none of the Charge, <hi>viz.</hi> of great Rents, Servants Wages, Taxes and L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vies, and Publick Offices, <hi>&amp;c.</hi> But yet for all this, do carry away the greatest part of the Ready-Money-Trade (which is the Life of all Trade) and so keep themselves always in a Posture to escape and avoid the Laws, and to shift from one part or place to another, as they find occasion, and see their unlawful Practices discover'd and detected.</p>
+            <p n="2">II. Such wandring vagrant Persons, not valluing Reputation, generally live Discomposed, Lewd, and Vicious Lives themselves; and make also, but too common a Practice to Corrupt and Debauch others wheresoever they come; and either quite leave, or disown their Children, or abandon them to Ignorance, Prophaness, and ill Ha<g ref="char:EOLhyphen"/>bits, to the great Mischief and Scandal of the publick Justice in many places.</p>
+            <p n="3">III. Many of them having no Religion at all, or good Principles, do secretly carry counterfeit and deceitful Goods, false News and pernicious Books, and Phamplets, to the cheating and perverting the King's Subjects; and sometimes secret Intelligence between Ill-designing Parties and Rebels unsuspected, or undiscovered.</p>
+            <p n="4">IV. All carrying abroad of Goods (otherwise than as before excepted) and proffering them about to Sale, as it is Beggarly and against the true Interest of all Trading-Countries; so it hinders and spoyls all ordinary and com<g ref="char:EOLhyphen"/>mon Fairs, and impoverishes and ruins all the Markets, and consequently all the Market-Towns in <hi>England,</hi> by taking away from thence the substantial part of Trade, and preventing recourse of People thither, and by turn<g ref="char:EOLhyphen"/>ing the Trade out of the right Channel (where Apprentiships have been served) into the Hands of Taylors, Brokers, and such like Petty-Chapmen, <hi>&amp;c.</hi>
+            </p>
+            <p n="5">V. As such wandring Persons in several parts in this Kingdom (and as they only) have the greatest opportunities, so they do actually promote the Stealing of Custom, and the carrying away and Vending of Stolen, Smugled, and Prohibited Goods, such as Linnens, Silks and Spices of all sorts, Tobacco, Brandy, Tea, Coffee, Chocolate; and also <hi>French</hi> Goods, or any sorts whatsoever, that are either Prohibited, or Pay a high Custom Inwards.</p>
+            <p n="6">VI. The greater▪ and more considerable these Horse-Pedlars, or Travailing Chap-Men are, so much the more harm and mischief they do to the Publick▪ and to all other Fair-Traders whatsoever; their Rambling Designs being generally at best, but Covetous and Boundless, and consequently Naught and Wicked: And yet these are the Men that pretend themselves wholly unconcern'd in all the Statutes made against them.</p>
+            <p>But though these, and many other Reasons in this Case are so plain and obvious, yet some Persons who see no further, will perhaps make such Objections as these that follow, <hi>viz.</hi>
+            </p>
+            <p>Obj. 1. <hi>That these Pedlars are some of them Honest, Industrious, and Thriving Men; and that they bring us what Goods we want home to our own Houses, and there Sell cheaper than the Shop-keepers; and this is an Accomodation to us, and promotes Trade,</hi> &amp;c. <hi>And why should either they, or we, be restrained from what is for our own particular Advantages,</hi> &amp;c.</p>
+            <p>To all which may be answered; That if all this were granted (though no great reason for it) yet it's to be hoped that no Person of Quality, or Estate, or good Understanding, would much insist on his own private In<g ref="char:EOLhyphen"/>terest in small Matters, where it thwarts so much the Interest of the Publick, in which perhaps (if he pleases but to consider) he will find himself abundantly more concerned, than all those Trifles which are ever bought at his House can amount unto: And also, that by reason of these Pedlars, the more Substantial Shop-keepers cannot
+<pb facs="tcp:38337:2"/> invest their Stocks in such Goods, as might otherwise tend to the far greater Accomodation and Improvement of Trade, <hi>&amp;c.</hi> in the particular Places where they dwell.</p>
+            <p>Consider also, That there's no Honest, Ingenious, and Industrious Man in <hi>England,</hi> of any Profession whatso<g ref="char:EOLhyphen"/>ever, but he may (if he will) fix himself in some one abiding Place or other, where he may gain, at least an honest Lively-hood at Home, and maintain his Family too, in one degree or other, as well as his Neighbours; and this is as much as strictly the Man needs: For what Reason then should he (to get more than he needs) so Ram<g ref="char:EOLhyphen"/>ble, Interlope, and forestall abroad, as to hinder and deprive so many other Men of their just Gain and Im<g ref="char:EOLhyphen"/>provement, who constantly abide in their own Stations, and help to Support and Improve the Community? So that this private Interest (separate from the Publick) is that very same Principle that leads Men to the very worst of Acti<g ref="char:EOLhyphen"/>ons, and that <hi>many-headed-Monster</hi> that at last devours all. And wheresoever any of the <hi>English</hi> Nobility or Gen<g ref="char:EOLhyphen"/>try are so unhappily inconsiderate of their own true Interest, as to neglect the Incouragement of the Vicinity, as such Neglect detracts from their own Honour, so it damps and dispirits all their meaner Neighbours and Dependants, so that Land-Rents fall, the Poor increase, and are unemployed; and in this and in many more Instances, as might at large be shew'd, how for want of a due Regard to, and Regulation of our Inland (as well as of our Outland) Trade our Native Commodities (tho' the best in the World) sink and fall lower and lower, and a common Consump<g ref="char:EOLhyphen"/>tion insensibly crawls upon us; and that this is so in Fact, is but too visible to all, tho▪ few can or will see how it comes to pass. And as it thus, impaireth the Inheritance of the Elder Sons and Heirs, so much more it defeateth the Im<g ref="char:EOLhyphen"/>provement and Preferment of the Younger Children (if design'd to be supported by Trade) by confounding that, and rendring it despicable and slavish.</p>
+            <p>Obj. 2. <hi>Some particular Towns, as</hi> Manchester, <hi>and</hi> Maxfield, <hi>will Object, That if they have not liberty to carry about and proffer to sale their Manufactories as formerly, they shall be in danger to lose their Trades and be undone.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Of which there is small danger, but more rational hopes to the contrary; that by only keeping of open Fairs and Markets ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oad (if they please) and by fixing a firmer Correspondence with other Towns and Cities, which must have, and yet cannot imitate their Goods, a much more beneficial Home-Trade from thence would follow, and soon be settled in those places as well as others, and to their far greater Advantage. For,</p>
+            <p>How many poor Men and their Families are constantly devour'd and eaten up by those Horses with which they Hawk, and carry about their Goods? And is it not accounted at those Places a Wonder if any of those Travelers can but hold up for seven Years, without breaking? And how do those poor Traveling Traders forestall one ano<g ref="char:EOLhyphen"/>ther abroad from place to place, and beat down the Prices of their Goods, until they must at last be slightly and deceitfully made, <hi>viz.</hi> Good on the out-side only, as is but too obvious to all that observe them; and is not only a Reproach to those Places, but a general Scandal to the <hi>English</hi> Manufactories beyond the Seas, even to the loss of an Exportation-Trade, which hath always justly had the greatest Incouragement, by Law, of any Manufactory in all <hi>England. We mean that of Dimities and Fustians.</hi>
+            </p>
+            <p>Besides, if no Persons at all are permitted so to carry and proffer Goods abroad (except Provisions only) then all will be the better contented, and none will have any just Cause of Complaint. But if any Towns, Places, or Persons are permitted, others then will soon shrowd themselves under that shelter, and the Remedy will prove still ineffectual▪</p>
+            <p>Object. 3. <hi>It will also be Objected by some, and that greatly in the favour of those Travelling Chapmen; That they are of great use to the generality of the Shop-keepers, and other Home-Traders; and that very few can furnish their Shops without the Assistance of these Men; and many Persons will doubtless, now as well as formerly, be influenc'd and produced to justifie the same, as much as possible, and by their Interest to hinder any Bill against them from passing both Houses, or the Royal Assent.</hi>
+            </p>
+            <p>But this and all such false Objections and other Difficulties will be the best answered by all such Persons whatsoever throughout <hi>England,</hi> as account themselves concern'd in this Grievance, and do really desire an effectual Redress, and that by these Methods following, <hi>viz.</hi>
+            </p>
+            <p n="1">1. By their Contributing themselves, and Collecting from others what they think fit to give towards the Charge of carrying on, and the Accomplishment of this Publick Good which some have formerly neither spared their own Pains or Purse to obtain. And then to send a particular Account of Persons, Places, and Sums, in a few Lines direct<g ref="char:EOLhyphen"/>ed to Mr. <hi>Sarjent Williams,</hi> to be left with Mr. <hi>Breez</hi> at the <hi>General Post-Office</hi> in <hi>London,</hi> and to cause the Mo<g ref="char:EOLhyphen"/>ney to be paid in unto Mr. <hi>John Sweetaple,</hi> Goldsmith, at the <hi>Black-Moor's-Head</hi> in <hi>Lombard-Street,</hi> where an Ac<g ref="char:EOLhyphen"/>count thereof will be kept for the Authors and Undertakers hereof, that every particular Person may see that his Money is paid in, and the overplus will be employ'd for putting of the Laws (when obtained) into immediate Execution in all Places, especially where it shall be desired in any Letters to the said Mr. <hi>Sarjent Williams;</hi> of all which Letters, the Parties shall receive back all needful Answers. And also, those that know any of the Trading-part of the Undertakers, are desired to conceal their Names for the better prosecution thereof, and for preventing some Evil Practices of the Pedlars and their Agents against them.</p>
+            <p n="2">2. Every such Person that desires the good Success hereof, and hath the Honour to be Acquainted with any of their Representatives in Parliament, are desired to endeavour to make them sensible of this matter, and to intreat their Favour, whensoever it shall be first moved in the <hi>House of Commons.</hi>
+            </p>
+            <p n="3">3. Any such Persons as can give any particular Account of any such Misdemeanors as are mentioned or compre<g ref="char:EOLhyphen"/>hended in the second, third, or fifth Reasons above-written, are desired to send the same, <hi>per Post</hi> Directed to <hi>Thomas Colthurst</hi> Esq; at his Chamber in <hi>Grays-Inn,</hi> if in Term time, otherwise, at his House near <hi>Oundle</hi> in <hi>Northampton<g ref="char:EOLhyphen"/>shire,</hi> who will communicate the same, with some other Justices of the Peace; whose Advice and Assistance will be needful in this Undertaking.</p>
+            <p n="4">4. And Lastly, Whosoever is himself satisfied of the publick Benefit of such a Law, let him by no means depend upon others, but readily acquit himself as above; (and especially in the first method of which every Man is capable) and endeavour also to Convince and Satisfie others, so to signifie their Consent, that on Occasion it may here appear how many of Their Majesties good Subjects are concern'd, and desirous of such a Law, and how much in weight and number, beyond all their Opposers that can be produced.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>These Papers are to be ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the</hi> Three Pidgeons <hi>in</hi> Cornhil, London▪ <hi>over against the Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
